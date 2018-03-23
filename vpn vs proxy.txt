@@ -1,0 +1,24 @@
+02/06/2017:  en nirsoft v1, herramienta para obtener claves de VPB???
+
+-SopA1:
+
+	
+	PutaS
+		-¿calcetines? (v4 v5)	
+	
+	VPN.- RED y  privada y virtual?
+
+		Virtual:*¿como se conectan 2 dispositivos que no existen?
+			¿que funcuinalidades tiene?
+			¿ventajas e inconvenientes?
+		Private.*-¿Como es posible enviar un secreto y adirmar que nadie lo sabe???
+		
+		Network*.çLa idea de que dispositivos intercambien unformacuin de forma privada me parece dificil, usando stabsares y nomrmas conocidas previamente me resilyta utópico...
+
+
+02/06/2017:
+Las VPN usan "tuneles" para conectarse,..
+
+
+
+		
